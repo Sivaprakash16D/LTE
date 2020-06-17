@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/LTE_V543.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>4622</used>
+      <free>3570</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>147072</length>
+      <used>37575</used>
+      <free>109497</free>
+    </memory>
+  </executable>
+</project>

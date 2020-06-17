@@ -1,0 +1,27 @@
+BIN MONITORING SYSTEM RELEASE NOTES 
+(C) LCS CONTROLS PVT. LTD. 1995-2017
+
+Hardware Used:
+    Controller: PIC30F6012A/16Bit
+    Other Peripherals Used: LTE Modem - Quectel EC25 E
+                            2*16 LCD Display,
+                            Uart0, Uart1
+    
+
+/*****************************************************************************************
+Project Name:   LTE Modem addon for MW5100
+Software Rev:   Version 5.1 (Common Software for IoT)
+Description :   * Quectel EC25 module used for LTE and as well as GPS. (AT commands send through UART)
+                * Memory has divided into three banks and user can able to modify or configure it.
+                * A Memory storage capable of storing 10 No.of phone numbers for sending SMS.
+                * One bank is used for sending SMS
+******************************************************************************************/
+
+/*****************************************************************************************
+Project Name:   LTE Modem addon for MW5100
+Software Rev:   Version 5.0 (Common Software for IoT Interaction)
+Description :   * Quectel EC25 module used for LTE and as well as GPS. (AT commands send through UART)
+                * Memory has divided into three banks and user can able to modify or configure it.
+                * Three types of Records will be stored and sent to server simultaneously.
+                * One record as immediate data that will not be stored while receive. It will directly sent to server once received
+******************************************************************************************/
